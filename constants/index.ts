@@ -24,15 +24,15 @@ export const categoryFilters = [
 
 export const footerLinks = [
   {
-    title: 'For developers',
+    title: 'For artists',
     links: [
-      'Go Pro!',
-      'Explore development work',
-      'Development blog',
-      'Code podcast',
-      'Open-source projects',
-      'Refer a Friend',
-      'Code of conduct',
+      'Behance',
+      'DeviantAr',
+      'ArtStation',
+      'Etsy',
+      'Society6',
+      'ArtRabbit',
+      'CreativeBloq',
     ],
   },
   {
